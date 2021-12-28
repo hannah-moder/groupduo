@@ -1,0 +1,83 @@
+body {
+	background-color: Black;
+	font-family: 'Press Start 2P', sans-serif;
+	text-align: center;
+	color: White;
+	background-image: url("yoshi2.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	background-position: 50% 15%;
+}
+
+.wrapper {
+	width: 1000px;
+	margin: auto;
+	padding-top: 250px;
+}
+
+ul {
+	text-align: center;
+	padding-left: 0;
+}
+
+li {
+	list-style-image: url('star3.png');
+	list-style-position: inside;
+	padding-bottom: 17px;
+	font-size: .75em;
+	color: #03A9F4;
+}
+
+h1 {
+	font-size: 1.25em;
+	color: #ff9100;
+}
+
+h2 {
+	font-size: .85em;
+	margin-bottom: 75px;
+}
+
+h3 {
+	color: #F44336;
+	font-size: .75em;
+	margin-bottom: 30px;
+}
+
+p {
+	font-size: 0.75em;
+	margin: auto;
+	margin-bottom: 25px;
+	width: 75%;
+}
+
+footer {
+	margin-top: 70px;
+	font-size: .5em;
+	text-align: right;
+}
+
+a:link {
+	color: #029E07;
+}
+
+a:visited {
+	color: #fff200;
+}
+
+a:hover {
+	color: #ff9100;
+}
+
+footer a:link {
+	color: #3b3b3b;
+}
+
+footer a:hover {
+	color: #3b3b3b;
+	text-decoration: none;
+}
+
+footer a:visited {
+	color: #3b3b3b;
+}

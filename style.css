@@ -1,0 +1,51 @@
+body {
+	width: 60%;
+	background-color: #026670;
+	margin: auto;
+}
+
+.wrapper {
+	text-align: center;
+	background-color: white;
+}
+
+header {
+	background-image: Url("images/footer-background-01.jpg");
+	color: white;
+	padding: 10px;
+}
+
+main {
+	background-color: white;
+	padding: 10px;
+}
+
+footer {
+	background-image: Url("images/footer-background-01.jpg");
+	color: white;
+	padding: 5px;
+}
+
+p {
+	width: 50%;
+	margin: 25px auto 25px auto;
+}
+
+h3 {
+	margin-bottom: 0;
+}
+
+ul, ol {
+	text-align: left;
+	display: inline-block;
+}
+
+#student-list {
+	margin-top: 40px;
+}
+
+img {
+	display: block;
+	margin: 40px auto 30px auto;
+	width: 50%;
+}
